@@ -35,4 +35,4 @@ elif instances == 1:
     print("1 instance of " + character + " found in " + word)
 else:
     instances_occured = str(instances)
-    print(instances_occured + "instance of " + character + " found in " + word)
+    print(instances_occured + " instances of " + character + " found in " + word)
